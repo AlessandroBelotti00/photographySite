@@ -1,4 +1,4 @@
-baseURL = "https://alebelo.github.io/photographySite/"
+baseURL = "https://alebelo.github.io/"
 languageCode = "en-us"
 title = "Portfolio"
 theme = "hugo-story"
