@@ -1,2 +1,0 @@
-# photographySite
-My personal website
